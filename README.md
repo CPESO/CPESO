@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://cpeso.ph" style="text-decoration=none"><img src="https://cpeso.ph/assets/logo-537507d4.svg" align="center"> CPESO</a>  
+</p>
 
 <!--
 **CPESO/CPESO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
